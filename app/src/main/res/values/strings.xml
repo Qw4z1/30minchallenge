@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpotifyTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="go">Go!</string>
+    <string name="start">Start!</string>
+    <string name="hold">Hold it...</string>
+    <string name="patience">Patience young padawan!</string>
+</resources>
